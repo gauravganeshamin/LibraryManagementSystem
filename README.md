@@ -1,6 +1,6 @@
 # Library Management System
 We have created a relational database management system for REAL (Read,Edify, and Learn). It is a Library Management System. REAL maintains records of the individual customer and the list of books issued by them, upcoming events/exhibitions, inventory details,
-and invoices generated. A customer can book a room in the library for their preferred time slotand can select books from a wide range of genres depending on their availability. Once a book isissued by the customer, an estimated return date is reflected on the customer's profile and invoice
+and invoices generated. A customer can book a room in the library for their preferred time slotand can select books from a wide range of genres depending on their availability. Once a book is issued by the customer, an estimated return date is reflected on the customer's profile and invoice
 is generated for him/her, and payments are made against those bills. Similarly, a separate login page is made for the admin from where he can see the list of customers who have issued books currently and can also view the older issuance records. Admin also see the rooms that have been
 booked with their respective time slots. Our website also gives the admin the flexibility to add or delete books from the inventory which is reflected in real-time on the user page also.
 
